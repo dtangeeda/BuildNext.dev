@@ -63,10 +63,10 @@ function NavBar() {
                         </svg>
                         <div className="ml-4">
                           <p className="text-base font-medium text-gray-900">
-                            Analytics
+                            Jamstack Website Development
                           </p>
                           <p className="mt-1 text-sm text-gray-500">
-                            Get a better understanding of where your traffic is coming from.
+                            Develop your website or blog with full ownership and control
                           </p>
                         </div>
                       </a>
@@ -77,10 +77,10 @@ function NavBar() {
                         </svg>
                         <div className="ml-4">
                           <p className="text-base font-medium text-gray-900">
-                            Engagement
+                            Web App Development
                           </p>
                           <p className="mt-1 text-sm text-gray-500">
-                            Speak directly to your customers in a more meaningful way.
+                            Custom design and web app development
                           </p>
                         </div>
                       </a>
@@ -91,10 +91,10 @@ function NavBar() {
                         </svg>
                         <div className="ml-4">
                           <p className="text-base font-medium text-gray-900">
-                            Security
+                            Web Scraper Solutions
                           </p>
                           <p className="mt-1 text-sm text-gray-500">
-                            Your customers' data will be safe and secure.
+                            We can scrape data from sites using our Javascript tools
                           </p>
                         </div>
                       </a>
@@ -105,27 +105,13 @@ function NavBar() {
                         </svg>
                         <div className="ml-4">
                           <p className="text-base font-medium text-gray-900">
-                            Integrations
+                            Application Security - Assessments and Remediations
                           </p>
                           <p className="mt-1 text-sm text-gray-500">
-                            Connect with third-party tools that you're already using.
+                            Complete app analysis for threats and vulnerabilities.
                           </p>
                         </div>
-                      </a>
-                      <a href="#" className="-m-3 p-3 flex items-start rounded-lg hover:bg-gray-50">
-                        {/* Heroicon name: refresh */}
-                        <svg className="flex-shrink-0 h-6 w-6 text-indigo-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-                        </svg>
-                        <div className="ml-4">
-                          <p className="text-base font-medium text-gray-900">
-                            Automations
-                          </p>
-                          <p className="mt-1 text-sm text-gray-500">
-                            Build strategic funnels that will drive your customers to convert
-                          </p>
-                        </div>
-                      </a>
+                      </a>                
                     </div>
                     <div className="px-5 py-5 bg-gray-50 space-y-6 sm:flex sm:space-y-0 sm:space-x-10 sm:px-8">
                       <div className="flow-root">

@@ -5,12 +5,12 @@ function FeaturesSection() {
 <div className="py-12 bg-white border-t-2 border-gray-100">
 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
   <div className="lg:text-center">
-    <h2 className="text-base text-center text-indigo-600 font-semibold tracking-wide uppercase">BuildNext Services</h2>
+    <h2 className="text-base text-center text-indigo-600 font-semibold tracking-wide">BuildNext Services</h2>
     <p className="mt-2 text-center text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-      A better way to develop softwares
+      A better way to develop software
     </p>
     <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
-      Lorem ipsum dolor sit amet consect adipisicing elit. Possimus magnam voluptatum cupiditate veritatis in accusamus quisquam.
+      Our technology focus areas include the following fields.
     </p>
   </div>
   <div className="mt-10">
@@ -26,10 +26,10 @@ function FeaturesSection() {
         </div>
         <div className="ml-4">
           <dt className="text-lg leading-6 font-medium text-gray-900">
-            Competitive exchange rates
+            JAMStack Website Development
           </dt>
           <dd className="mt-2 text-base text-gray-500">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+            Using JavaScript, API and Markup, we provide complete website development solutions for clients and businesses.
           </dd>
         </div>
       </div>
@@ -44,10 +44,10 @@ function FeaturesSection() {
         </div>
         <div className="ml-4">
           <dt className="text-lg leading-6 font-medium text-gray-900">
-            No hidden fees
+           Web Application Development
           </dt>
           <dd className="mt-2 text-base text-gray-500">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+            We provide Full Stack Development and UI designing with focus on Semantic web.
           </dd>
         </div>
       </div>
@@ -62,10 +62,10 @@ function FeaturesSection() {
         </div>
         <div className="ml-4">
           <dt className="text-lg leading-6 font-medium text-gray-900">
-            Transfers are instant
+            Web Scraping Solutions
           </dt>
           <dd className="mt-2 text-base text-gray-500">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+            We have expertise in building custom web and data scraping solutions based on client requirements.
           </dd>
         </div>
       </div>
@@ -80,10 +80,10 @@ function FeaturesSection() {
         </div>
         <div className="ml-4">
           <dt className="text-lg leading-6 font-medium text-gray-900">
-            Mobile notifications
+            Web Apps Security Assessment
           </dt>
           <dd className="mt-2 text-base text-gray-500">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+            We do Security assessment of web applications and give a detailed report of the vulnerabilities and threats in the software both at the user level and code level.
           </dd>
         </div>
       </div>
